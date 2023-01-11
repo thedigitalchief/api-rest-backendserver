@@ -21,7 +21,7 @@ mongoose.connect(
   {
     useNewUrlParser: true, 
     useUnifiedTopology: true, 
-    dbName: 'bookstore',
+    dbName: 'digitalchief-db',
     useFindAndModify: false
   }
 );
