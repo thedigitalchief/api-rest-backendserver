@@ -38,7 +38,7 @@ app.use('/admin', adminRoute);
 app.use('/promotion', promotionRoute);
 
 
-app.get('/', (req, res) => res.send('Welcome to DigitalChief, Inc. backend API server!'))
+app.get('/', (req, res) => res.send('Welcome to DigitalChief, Inc. backend! This is a API REST datbase server...'))
 
 app.listen(port, () => {
   console.log(`Backend app listening at http://localhost:${port}`)
