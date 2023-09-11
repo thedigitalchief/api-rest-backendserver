@@ -1,15 +1,9 @@
-## BOOK STORE SERVER
+## Backend API SERVER
 
-In the project directory, you can run:
-
-### Install package
-
----> "npm install"
-
-### Run app
-
----> "npm start"
+Reliable and modern API backender database server. 
 
 
-https://pickbazar-server.onrender.com
+
+## Links
+API url: https://pickbazar-server.onrender.com
 
